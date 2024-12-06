@@ -1,6 +1,58 @@
 <header>
+Informe de Perfil Profesional
 
-<!--
+Yulegsia Inés Tallos Vila
+Licenciada en Biología y Microbiología | Experta en Transformación Digital en Salud y Gestión Sanitaria
+
+Resumen Profesional
+
+Soy una profesional con más de 18 años de experiencia en análisis clínicos y gestión de laboratorios, actualmente desempeñándome como técnica de análisis clínicos en el laboratorio del Hospital Cerdanya. Mi trayectoria incluye trabajar en entornos multiculturales de alta precisión, eficiencia y mejora continua. En Cuba, desempeñé funciones como microbióloga, contribuyendo en la producción y estandarización de sistemas de inmunodiagnósticos. Mi formación superior y especialización en microbiología me han permitido asumir responsabilidades más allá de mi rol técnico, contribuyendo con estrategias de mejora en la calidad y seguridad de los laboratorios.
+
+Poseo una sólida formación académica que incluye licenciaturas en Biología y Microbiología, además de certificaciones y estudios avanzados en gestión sanitaria, transformación digital y ciencia de datos. Esto me permite fusionar conocimientos técnicos con enfoques estratégicos, promoviendo la innovación en el sector salud.
+
+Habilidades y Competencias
+
+	•	Análisis clínico avanzado y control de calidad en laboratorios.
+	•	Gestión de proyectos en transformación digital en entornos sanitarios.
+	•	Experta en programas PROA (Optimización y uso adecuado de antimicrobianos).
+	•	Diseño e implementación de estrategias de sostenibilidad en la salud.
+	•	Minería de datos aplicada al sector sanitario.
+	•	Gestión de equipos multidisciplinarios en contextos multiculturales.
+	•	Mejora continua en procesos y protocolos de seguridad en laboratorios.
+
+Formación Académica y Profesional
+
+	•	Licenciatura en Biología y Microbiología
+	•	Máster en Gestión Sanitaria (MBA) (en curso).
+	•	Máster en Data Science y Machine Learning (en curso).
+	•	Certificación PROA y PRAM (Optimización de antimicrobianos).
+	•	Formación en Transformación Digital para Ejecutivos en empresas PYME.
+
+Logros y Experiencia Clave
+
+	1.	Transformación Digital en Salud: Lideré proyectos que optimizaron la gestión de recursos en laboratorios y mejoraron protocolos de calidad en el Hospital Cerdanya. Mis propuestas incluyeron la integración de tecnologías digitales y plataformas de telemedicina para consultas en áreas clave como ginecología, dermatología, salud mental y nutrición.
+	2.	Especialización en PROA: Implementé estrategias de uso adecuado de antimicrobianos, promoviendo la sostenibilidad y la reducción de la resistencia bacteriana.
+	3.	Innovación y Minería de Datos: Actualmente aplico análisis de datos para resolver problemas relacionados con la capacitación y gestión de recursos humanos en el Hospital Cerdanya, alineándome con el proceso de transformación digital de la institución.
+	4.	Gestión en Laboratorios Multiculturales: Diseñé y mejoré protocolos en contextos internacionales, destacando mi capacidad de adaptación y enfoque en la mejora continua.
+
+Intereses Profesionales
+
+	•	Innovación en el sector sanitario mediante el uso de tecnologías digitales.
+	•	Fusión de la microbiología con la ciencia de datos para optimizar recursos y procesos.
+	•	Implementación de programas de sostenibilidad en la salud pública.
+	•	Creación de soluciones accesibles para la gestión de salud, como plataformas de telemedicina y diagnóstico a domicilio.
+	•	Colaboración con equipos enfocados en transformar y mejorar el impacto social del sistema sanitario.
+
+Metas a Corto y Largo Plazo
+
+	•	A corto plazo, busco implementar iniciativas que refuercen la transformación digital en el Hospital Cerdanya y ampliar mi experiencia en análisis de datos aplicados a la gestión sanitaria.
+	•	A largo plazo, mi objetivo es liderar proyectos de gran impacto en el sector sanitario, fusionando mis conocimientos técnicos con habilidades en gestión estratégica y transformación digital. También planeo desarrollar mi propia marca en telemedicina, bajo el nombre “Cerdanya Care & Wellness”.
+
+Contacto
+
+Puedes conectar conmigo en LinkedIn o a través de mi correo profesional para explorar oportunidades de colaboración o proyectos de impacto en el sector sanitario.
+
+Este informe está estructurado para destacar tu experiencia, intereses y metas profesionales en LinkedIn o como parte de un portafolio. Si deseas ajustarlo o agregar más detalles, avísame. ¡Estaré encantada de ayudarte!<!--
   <<< Author notes: Course header >>>
   Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
